@@ -107,18 +107,8 @@ Powerbi-Superstore-Data-Modelling/
 ├── README.md
 │
 ├── Dataset/
-│   └── sample-superstore.csv
-│
-└── Data_model.png
+  └── sample-superstore.csv
 ```
-
----
-
-## 🖼️ Project Preview
-
-### Data Model
-
-![Data Model](Data_model.png)
 
 ---
 
