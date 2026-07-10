@@ -109,7 +109,7 @@ Powerbi-Superstore-Data-Modelling/
 ├── Dataset/
 │   └── sample-superstore.csv
 │
-└── data_model.png
+└── Data_model.png
 ```
 
 ---
@@ -118,7 +118,7 @@ Powerbi-Superstore-Data-Modelling/
 
 ### Data Model
 
-![Data Model](data_model.png)
+![Data Model](Data_model.png)
 
 ---
 
